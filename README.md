@@ -3,6 +3,7 @@
 A modern, responsive recipe management application built with React and TypeScript.
 
 ![Recipe Vault Overview](./public/image1.png)
+![Recipe Vault Overview](./public/image2.png)
 ![Recipe Vault Overview](./public/image.png)
 
 ## ✨ Features
