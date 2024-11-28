@@ -25,7 +25,6 @@ A modern, responsive recipe management application built with React and TypeScri
   - Difficulty
   - Date added
 
-![Search and Filters](./public/screenshots/filters.png)
 
 ### 📖 Recipe Management
 - Add new recipes with comprehensive details
@@ -33,7 +32,6 @@ A modern, responsive recipe management application built with React and TypeScri
 - Detailed view with ingredients and instructions
 - Dynamic form validation
 
-![Add Recipe Form](./public/screenshots/add-recipe.png)
 
 ### 💫 Interactive UI
 - Beautiful recipe cards
@@ -41,7 +39,6 @@ A modern, responsive recipe management application built with React and TypeScri
 - Favorite toggle functionality
 - Real-time filtering and sorting
 
-![Recipe Details](./public/screenshots/recipe-details.png)
 
 ## 🛠 Technical Stack
 
@@ -85,20 +82,6 @@ npm run dev
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## 📱 Screenshots
-
-### Home Screen
-![Home Screen](./public/screenshots/home.png)
-
-### Recipe Grid
-![Recipe Grid](./public/screenshots/grid.png)
-
-### Recipe Details
-![Recipe Details](./public/screenshots/details.png)
-
-### Add Recipe Form
-![Add Recipe Form](./public/screenshots/form.png)
-
 ## 🎯 Future Improvements
 
 - [ ] Backend integration with database
@@ -125,8 +108,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Hayelalfaisali](https://github.com/Hayelalfaisali)
+- Email: hayelalfasly.email@example.com
 
 ---
 Made with ❤️ using React and TypeScript
